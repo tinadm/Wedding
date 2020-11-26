@@ -1,0 +1,47 @@
+
+/* Rules */
+/* Selettore + Blocco di decorazione */
+/* 4 tipi di selettori basici
+- * Selettore universale -----
+-   Selettore che seleziona un elemento attraverso il suo nome -----------
+-   Selettore che seleziona una CLASSE e si mette il punto .classe
+-   Selettore che seleziona attraverso di un ID e si mette # #id
+*/
+
+
+
+
+h1 {
+    color: black;
+    text-align: start;
+    background-color: violet;
+    border: black solid 10px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+p {
+    color: black;
+    background-color: violet;
+}
+
+
+.font40 {
+    font-size: 50px;
+}
+
+.par1 {
+    background-color: tan;
+}
+
+.par2 {
+    background-color: tomato;
+}
+
+.lista1 {
+    background-color: tan;
+}
+
+a {
+    display: block; 
+}
